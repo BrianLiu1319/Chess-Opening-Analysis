@@ -1,4 +1,4 @@
-This is a project on chess openings and learn to use libraries.
+This is a project on chess openings and learned how to use and apply libraries to analyze data.
 
 Stuff learned :
 pandas, seaborn, matplotlib, beautifulsoup
