@@ -1,4 +1,4 @@
-This is a group project on chess openings and learn to use libraries.
+This is a project on chess openings and learn to use libraries.
 
 Stuff learned :
 pandas, seaborn, matplotlib, beautifulsoup
